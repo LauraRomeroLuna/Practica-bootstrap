@@ -1,0 +1,10 @@
+img{width: 30%;}
+div .img{width: 20%;}
+.accordion-button{
+    background-color: red;
+    color: white;
+}
+
+.accordion-button:not(.collapsed){
+    background-color: aquamarine;
+}
